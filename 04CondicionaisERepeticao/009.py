@@ -8,18 +8,19 @@ import random
 import re
 
 PALAVRAS = [
-    "exceto", "cínico", "idôneo", "âmbito", "néscio",
-    "mister", "índole", "defina", "vereda", "apogeu",
-    "inócuo", "convém", "escopo", "utopia", "sádico",
-    "ênfase", "idiota", "alusão", "mérito", "hostil",
-    "casual", "cético", "anseio", "legado", "gentil",
-    "pressa", "hétero", "alheio", "paixão", "nocivo",
-    "infame", "clichê", "afável", "exímio", "dádiva",
-    "também", "êxtase", "adorno", "larica", "otário",
-    "astuto", "aferir", "sóbrio", "adesão", "sessão",
-    "glória", "solene", "limiar", "julgar", "ensejo",
+    "exceto", "cinico", "idoneo", "ambito", "nescio",
+    "mister", "indole", "defina", "vereda", "apogeu",
+    "inocuo", "convem", "escopo", "utopia", "sadico",
+    "enfase", "idiota", "alusao", "merito", "hostil",
+    "casual", "cetico", "anseio", "legado", "gentil",
+    "pressa", "hetero", "alheio", "paixao", "nocivo",
+    "infame", "cliche", "afavel", "eximio", "dadiva",
+    "tambem", "extase", "adorno", "larica", "otario",
+    "astuto", "aferir", "sobrio", "adesao", "sessao",
+    "gloria", "solene", "limiar", "julgar", "ensejo",
     "embora"
 ]
+
 PALAVRA_SECRETA = random.choice(PALAVRAS)
 
 def main():
