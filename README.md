@@ -2,7 +2,7 @@
 
 - Minhas soluções em Python para a lista de exercícios do repositório [lucasfugisawa/logica-programacao-exercicios-progressivos](https://github.com/lucasfugisawa/logica-programacao-exercicios-progressivos).
 
-## Estrutura do Repositório (ainda não completo)
+## Estrutura do Repositório
 
 ```
 01Simples/                     # Nível 1 — Exercícios Simples
